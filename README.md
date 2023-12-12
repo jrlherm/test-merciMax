@@ -1,7 +1,7 @@
 # Test Technique - Gestionnaire d'Évènements (MerciMax)
 
 ## Live Website
-[[https://vinted-jr.netlify.app/](https://testmercimax.netlify.app/)](https://testmercimax.netlify.app/)
+[https://testmercimax.netlify.app/](https://testmercimax.netlify.app/)
 ## Run the project
 
 Clone this repository :
