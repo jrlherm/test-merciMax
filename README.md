@@ -1,7 +1,7 @@
 # Test Technique - Gestionnaire d'Évènements (MerciMax)
 
 ## Live Website
-[https://testmercimax.netlify.app/](https://testmercimax.netlify.app/)
+https://cheery-brioche-21e970.netlify.app/
 
 ## Features
 - The Main page displays every events.
