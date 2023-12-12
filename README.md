@@ -12,11 +12,12 @@ https://cheery-brioche-21e970.netlify.app/
 
   #### Improvements to do
   - ~~Solving why my Create & Update routes don't work on netlify~~
+  - **Hide API token (but still in the http request whatever)**
   - Create more functions to be more DRY.
   - Allow user to sort by name or date.
   - Allow user to filter by categories.
   - Add a searchbar.
-  - Hide API token (but still in the http request whatever)
+  
 
 ## Run the project
 
