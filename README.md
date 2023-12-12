@@ -1,7 +1,9 @@
 # Test Technique - Gestionnaire d'Évènements (MerciMax)
+<img width="1676" alt="image" src="https://github.com/jrlherm/test-merciMax/assets/10896142/47d43757-31d5-4e53-bcd4-8d5dd6e41082">
 
 ## Live Website
 https://cheery-brioche-21e970.netlify.app/
+
 
 ## Features
 - The Main page displays every events.
